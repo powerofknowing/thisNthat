@@ -13,3 +13,13 @@ Students will be able to identify and remediate vulnerabilities by using a varie
 [AZ500-03-OD](https://github.com/powerofknowing/thisNthat/blob/master/AZ500-03-OD.md "AZ500 Day-3 with Objective Domains")
 ### Day-4: Security Operations (SecOps)
 [AZ500-04-OD](https://github.com/powerofknowing/thisNthat/blob/master/AZ500-04-OD.md "AZ500 Day-4 with Objective Domains")
+
+## Objective Domains 
+There are 75 Objective Domain items for this training which are distributed amongst 4 modules. 
+
+[AZ500 Objective Domains](https://github.com/powerofknowing/thisNthat/blob/master/AZ500-OD.md "AZ500 Objective Domains")
+
+* Day-1: Manage Identity and Access (15/75 = 20%)
+* Day-2: Platform Security (24/75 = 32%)
+* Day-3: Securing Data and Applications (27/75 = 36%)
+* Day-4: Security Operations (9/75 = 12%)
